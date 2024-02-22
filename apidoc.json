@@ -1,0 +1,11 @@
+{
+  "name": "Pojet API RESTful MongoDB",
+  "version": "1.0.0",
+  "description": "Documentation de mon API gérant une boutique de jeux-vidéos",
+  "title": "Mon API Documentation : Boutique de jeux-vidéos",
+  "order": ["GetUser", "PostUser"],
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
